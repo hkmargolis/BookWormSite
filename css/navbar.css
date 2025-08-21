@@ -1,0 +1,17 @@
+.navbar a {
+  display: inline;
+  color: white;
+  background: black;
+  text-decoration: none;
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  margin-right: 15px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.navbar a:hover {
+  color: orange;
+}
