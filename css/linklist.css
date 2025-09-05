@@ -1,0 +1,18 @@
+.linklist a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+.linklist a:visited {
+  color: rgb(59,59,59);
+}
+
+.linklist a:hover {
+  color: lightgrey;
+}
+
+.linklist ul {
+  list-style-type: "📖 ";
+}
+
+
